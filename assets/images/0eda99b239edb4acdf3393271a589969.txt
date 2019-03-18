@@ -1,0 +1,56 @@
+1. ad_status_airframe
+header table dan kolom action belum fixed
+verif date default date now dan readonly 
+checklist untuk sync gk ada
+warna button blm standar
+
+2. ad_status_engine
+header table dan kolom action belum fixed
+TSN n CSN di disabled dan input type dr text di gnti number
+verif date default date now dan readonly
+order kolom gk jalan
+export to pdf di kasih jarak yg proporsional antara sign or stamp
+warna button blm standar
+
+3. ad_status_apu
+header table dan kolom action belum fixed
+TSN n CSN di disabled dan d ksih jarak serta input type dr text di gnti number
+verif date default date now dan readonly
+warna button blm standar
+export to pdf di kasih jarak yg proporsional antara sign or stamp
+checklist untuk sync gk ada
+isian beweekly date d table default date now tapi masih bisa d edit
+
+4. sb_status_engine
+TSN n CSN di disabled dan input type dr text di gnti number
+isian beweekly date d table default date now tapi masih bisa d edit
+export to excel isian beweekly date gk muncul
+export to pdf isian beweekly date gk muncul
+export to pdf footer sekali saja di terakhir page ato tiap page ada?
+
+5. sb_status_apu
+TSN n CSN di disabled dan input type dr text di gnti number
+thead kolom searching individual column warna tidak sama dengan yg laen
+verif date default date now dan readonly
+ketika edit status apu kolom status combonya gk diksih class selectpicker
+isian beweekly date d table default date now tapi masih bisa d edit
+export to pdf tidak ada field dan isian beweekly date
+
+6. sb_status_airframe
+isian beweekly date d table default date now tapi masih bisa d edit
+export to pdf tidak ada field dan isian beweekly date
+TSN n CSN di disabled dan input type dr text di gnti number
+
+7. stc_status
+TSN n CSN di disabled dan input type dr text di gnti number
+header table dan kolom action belum fixed
+export to pdf untuk field Aircraft Serial No, Aircraft Line No dan Aircraft Variable No tampil di excel tpi d pdf gk tampil
+menghilangkan border yang tidak dipakai
+
+
+Note : 
+1. penamaan sync ato Back To Default?
+2. tiap menu d adsb apakah hrus ad checklist dan sync?	
+3. export to pdf footer sekali saja di terakhir page ato tiap page ada?
+4. pewarnaan hijau dan kuning mungkin bisa d standarkan dan lebih jelas
+5. Standar header export pdf terutama font, jarak, letak

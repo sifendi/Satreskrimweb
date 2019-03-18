@@ -1,0 +1,2 @@
+. PHP vERSI 5.4.6
+. API untuk aplikasi mobile ada pada file lain
